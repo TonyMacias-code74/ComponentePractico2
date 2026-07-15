@@ -1,4 +1,4 @@
-**Componente_Practico_2**
+# Componente_Practico_2
 
 Nombre del Proyecto: NutriCampus - Sistema de Reserva y Gestión de Almuerzos para el Comedor Universitario.
 
